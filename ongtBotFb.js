@@ -10,19 +10,19 @@ const delay = require('delay');
 
 const bot = new BootBot({
 	//NOS DA FB
-	// accessToken: process.env.ACCESSTOKEN,
-	accessToken: conf.accessToken1,
+	accessToken: process.env.ACCESSTOKEN,
+	// accessToken: conf.accessToken1,
 	//accessToken: '',
 
 	
 
 	//LE DAMOS A FB 
-	verifyToken: conf.verifyToken1,
-	// verifyToken: process.env.VERIFYTOKEN,
+	// verifyToken: conf.verifyToken1,
+	verifyToken: process.env.VERIFYTOKEN,
 
     //NOS DA FB
-	appSecret: conf.appSecret1,
-	// appSecret: process.env.APPSECRET
+	// appSecret: conf.appSecret1,
+	
 
 });
 

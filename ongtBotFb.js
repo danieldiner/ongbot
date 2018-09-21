@@ -5,7 +5,7 @@
 
 
 const BootBot = require('bootbot')
-const conf = require('./config.js')
+// const conf = require('./config.js')
 const delay = require('delay');
 
 const bot = new BootBot({
@@ -22,7 +22,7 @@ const bot = new BootBot({
 
     //NOS DA FB
 	// appSecret: conf.appSecret1,
-	
+	appSecret: process.env.APPSECRET
 
 });
 

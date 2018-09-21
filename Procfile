@@ -1,2 +1,2 @@
 web: npm install
-web: node ongBotFb.js 
+web: nodemon ongBotFb.js 

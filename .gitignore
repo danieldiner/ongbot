@@ -1,0 +1,23 @@
+
+const config = {
+    
+    accessToken1: 'EAAZAlwHK8OwwBAInHjOyuoVok6vIVaPTfDE8qsuncViIQArYBI0B3h0ORzeZCaHwns7zFDKrQFPdidQSrvvAwjvZAv43QyvSDPSZBfC9F1E6MdkEgyNGZCqZCAzGVZAApWJvZAYq6MRBlmi1rXRSJCQvxXsOHTdcn6Q0ljhIaMUP8gZDZD',
+    appSecret1: '9f7c782d136d70b11b71e6c5f23c2618',
+    verifyToken1: 'ONGSINGHCHATBOT'
+   };
+
+
+// Access token
+// EAAZAlwHK8OwwBAInHjOyuoVok6vIVaPTfDE8qsuncViIQArYBI0B3h0ORzeZCaHwns7zFDKrQFPdidQSrvvAwjvZAv43QyvSDPSZBfC9F1E6MdkEgyNGZCqZCAzGVZAApWJvZAYq6MRBlmi1rXRSJCQvxXsOHTdcn6Q0ljhIaMUP8gZDZD
+// export accessToken1 = 'EAAZAlwHK8OwwBAInHjOyuoVok6vIVaPTfDE8qsuncViIQArYBI0B3h0ORzeZCaHwns7zFDKrQFPdidQSrvvAwjvZAv43QyvSDPSZBfC9F1E6MdkEgyNGZCqZCAzGVZAApWJvZAYq6MRBlmi1rXRSJCQvxXsOHTdcn6Q0ljhIaMUP8gZDZD';
+// //APP SEcret
+// // 9f7c782d136d70b11b71e6c5f23c2618
+// export appSecret1 = '9f7c782d136d70b11b71e6c5f23c2618';
+
+// export  verifyToken1 = 'CINTAROJABATCH19';
+
+
+
+
+
+module.exports = config;
